@@ -11,7 +11,6 @@ de todo lo que necesita para comenzar a contribuir en menos de una hora.
 
 <!--step0-->
 
-## How to start this course
 
   Who is this for: New developers, new GitHub users, and students.
   
@@ -23,6 +22,7 @@ de todo lo que necesita para comenzar a contribuir en menos de una hora.
   
   How long: This course is four steps long and takes less than one hour to complete.
 
+## How to start this course
 
 
 
