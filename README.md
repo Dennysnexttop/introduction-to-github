@@ -4,10 +4,7 @@
   
 </details>
 
-La gente usa GitHub para construir algunas de las tecnologías más avanzadas del mundo. Ya sea que esté
-visualizando datos o creando un nuevo juego, hay una comunidad completa y un conjunto de herramientas en
-GitHub que pueden ayudarlo a hacerlo aún mejor. El curso "Introducción a GitHub" de GitHub Skills lo guía a través
-de todo lo que necesita para comenzar a contribuir en menos de una hora.
+People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
 
 <!--step0-->
 
