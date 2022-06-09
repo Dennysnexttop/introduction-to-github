@@ -1,6 +1,6 @@
 # introduction-to-github
 <details id=0 open>
-<summary><h2>Start</h2></summary>
+<summary><h2> Get started using GitHub in less than an hour.</h2></summary>
   
 </details>
 Get started using GitHub in less than an hour.
