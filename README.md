@@ -12,12 +12,17 @@ de todo lo que necesita para comenzar a contribuir en menos de una hora.
 <!--step0-->
 
 ## How to start this course
- 
- ° Para quién es esto : nuevos desarrolladores, nuevos usuarios de GitHub y estudiantes./
- ° Lo que aprenderá : presentaremos repositorios, ramas, confirmaciones y solicitudes de incorporación de cambios./
- ° Lo que creará : crearemos un pequeño archivo Markdown que puede usar como su perfil README ./
- ° Requisitos previos : ninguno. Este curso es una gran introducción para tu primer día en GitHub./
- ° Cuánto tiempo : este curso tiene cuatro pasos y toma menos de una hora para completarlo./
+
+  Who is this for: New developers, new GitHub users, and students.
+  
+  What you'll learn: We'll introduce repositories, branches, commits, and pull requests.
+  
+  What you'll build: We'll make a short Markdown file you can use as your profile README.
+  
+  Prerequisites: None. This course is a great introduction for your first day on GitHub.
+  
+  How long: This course is four steps long and takes less than one hour to complete.
+
 
 
 
