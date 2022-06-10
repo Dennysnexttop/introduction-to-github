@@ -3,7 +3,7 @@
 
 </details>
 
-## este es mi proyecto de github 
+## Este es mi proyecto de github 
 ### Introducción a GitHub 
 Comience a usar GitHub en menos de una hora.
 
