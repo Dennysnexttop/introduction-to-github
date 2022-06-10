@@ -1,5 +1,5 @@
 <details id=1>
-<summary><h2>Step N: </h2></summary>
+<summary><h2>Curso de Github: </h2></summary>
 
 </details>
 
